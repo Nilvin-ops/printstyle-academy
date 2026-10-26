@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760">
+<rect width="1280" height="760" rx="28" fill="#f7f9fc"/>
+<rect x="18" y="18" width="1244" height="724" rx="24" fill="white" stroke="#d8e0ea" stroke-width="3"/>
+<text x="60" y="90" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#17365d">Визуальный контроль</text>
+<text x="60" y="128" font-family="Arial,sans-serif" font-size="18" fill="#64748b">Учебная иллюстрация • PrintStyle Academy</text>
+<rect x="60" y="250" width="260" height="220" rx="22" fill="#eef4fb" stroke="#9eb6d2" stroke-width="2"/>
+<circle cx="90" cy="282" r="16" fill="#5279a8"/>
+<text x="90" y="288" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="white">1</text>
+<text x="82" y="326" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17365d">Освещение</text>
+<text x="82" y="366" font-family="Arial,sans-serif" font-size="17" fill="#40566f">Одинаковые условия</text>
+<rect x="360" y="250" width="260" height="220" rx="22" fill="#eef4fb" stroke="#9eb6d2" stroke-width="2"/>
+<circle cx="390" cy="282" r="16" fill="#5279a8"/>
+<text x="390" y="288" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="white">2</text>
+<text x="382" y="326" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17365d">Эталон</text>
+<text x="382" y="366" font-family="Arial,sans-serif" font-size="17" fill="#40566f">Актуальный образец</text>
+<rect x="660" y="250" width="260" height="220" rx="22" fill="#eef4fb" stroke="#9eb6d2" stroke-width="2"/>
+<circle cx="690" cy="282" r="16" fill="#5279a8"/>
+<text x="690" y="288" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="white">3</text>
+<text x="682" y="326" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17365d">Признак</text>
+<text x="682" y="366" font-family="Arial,sans-serif" font-size="17" fill="#40566f">Конкретное изменение</text>
+<rect x="960" y="250" width="260" height="220" rx="22" fill="#eef4fb" stroke="#9eb6d2" stroke-width="2"/>
+<circle cx="990" cy="282" r="16" fill="#5279a8"/>
+<text x="990" y="288" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="white">4</text>
+<text x="982" y="326" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17365d">Подтверждение</text>
+<text x="982" y="366" font-family="Arial,sans-serif" font-size="17" fill="#40566f">При необходимости прибор</text>
+<line x1="325" y1="360.0" x2="352" y2="360.0" stroke="#6f8fb4" stroke-width="4"/>
+<polygon points="352,360.0 338,351.0 338,369.0" fill="#6f8fb4"/>
+<line x1="625" y1="360.0" x2="652" y2="360.0" stroke="#6f8fb4" stroke-width="4"/>
+<polygon points="652,360.0 638,351.0 638,369.0" fill="#6f8fb4"/>
+<line x1="925" y1="360.0" x2="952" y2="360.0" stroke="#6f8fb4" stroke-width="4"/>
+<polygon points="952,360.0 938,351.0 938,369.0" fill="#6f8fb4"/>
+</svg>

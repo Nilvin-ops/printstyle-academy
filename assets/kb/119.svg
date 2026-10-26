@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Средства индивидуальной защиты</title><desc id="desc">Тематическая иллюстрация: Безопасность — Средства индивидуальной защиты</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">SAFE · 119</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M117 52l38 14v28c0 25-17 39-38 48C96 133,79 119,79 94V86z"/><path d="M98 97l12 12 25-28"/><rect x="200" y="105" width="65" height="48" rx="6"/><path d="M213 105v-13c0-28 40-28 40 0v13"/><path d="M36 165 C119 139,209 174,285 120"/><path d="M36 150 L84 131 L139 151 L199 114"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/></g>
+<text x="38" y="190" class="title">Средства индивидуальной</text><text x="38" y="214" class="title">защиты</text><text x="38" y="286" class="kw">Средства</text><text x="38" y="304" class="kw">индивидуальной</text><text x="38" y="322" class="kw">защиты</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

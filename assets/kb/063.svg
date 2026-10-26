@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Оптические свойства красочного слоя</title><desc id="desc">Тематическая иллюстрация: Краски и покрытия — Оптические свойства красочного слоя</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#b24a2a" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#b24a2a" letter-spacing="1.5">INK · 063</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M112 52 C72 97,85 125,112 125 C139 125,152 97,112 52z"/><circle cx="102" cy="99" r="5" fill="currentColor"/><circle cx="215" cy="115" r="22"/><circle cx="215" cy="115" r="7"/><circle cx="265" cy="115" r="18"/><path d="M237 97h20v36H237z"/><path d="M36 165 C93 123,193 148,285 120"/><path d="M36 150 L98 115 L133 135 L173 108"/></g>
+<g fill="#b24a2a"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/></g>
+<text x="38" y="190" class="title">Оптические свойства</text><text x="38" y="214" class="title">красочного слоя</text><text x="38" y="286" class="kw">Оптические</text><text x="38" y="304" class="kw">свойства</text><text x="38" y="322" class="kw">красочного</text>
+<rect x="38" y="275" width="280" height="1" fill="#b24a2a" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

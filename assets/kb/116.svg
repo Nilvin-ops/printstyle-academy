@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Стабильность процесса</title><desc id="desc">Тематическая иллюстрация: Качество и производство — Стабильность процесса</desc>
+<rect width="360" height="320" rx="18" fill="#eef3f7"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">QC · 116</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="92" cy="92" r="35"/><circle cx="92" cy="92" r="23"/><circle cx="92" cy="92" r="9"/><path d="M210 138V63M210 138h105"/><path d="M220 123L242 106L260 116L282 83L308 96"/><path d="M36 165 C116 136,206 171,285 120"/><path d="M36 150 L81 128 L136 148 L196 111"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/><circle cx="343" cy="49" r="2"/></g>
+<text x="38" y="190" class="title">Стабильность процесса</text><text x="38" y="286" class="kw">Стабильность</text><text x="38" y="304" class="kw">процесса</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

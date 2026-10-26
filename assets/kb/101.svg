@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Высечка</title><desc id="desc">Тематическая иллюстрация: Послепечатная обработка — Высечка</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">FINISH · 101</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M67 117 L147 62 L167 82 L87 132z"/><path d="M97 117l25 20"/><path d="M180 77h110v65H180z"/><path d="M235 77v65M207 77v65M263 77v65"/><path d="M36 165 C101 121,191 156,285 120"/><path d="M36 150 L101 113 L121 133 L181 96"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/></g>
+<text x="38" y="190" class="title">Высечка</text><text x="38" y="286" class="kw">Высечка</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

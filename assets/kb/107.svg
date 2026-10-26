@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Брошюровка</title><desc id="desc">Тематическая иллюстрация: Послепечатная обработка — Брошюровка</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">FINISH · 107</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M67 107 L147 52 L167 72 L87 122z"/><path d="M97 107l25 20"/><path d="M180 85h110v65H180z"/><path d="M235 85v65M207 85v65M263 85v65"/><path d="M36 165 C107 127,197 162,285 120"/><path d="M36 150 L72 119 L127 139 L187 102"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/></g>
+<text x="38" y="190" class="title">Брошюровка</text><text x="38" y="286" class="kw">Брошюровка</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

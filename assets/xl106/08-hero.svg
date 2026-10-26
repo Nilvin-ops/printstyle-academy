@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0"/><stop offset="1" stop-color="#dbe7f5"/></linearGradient></defs>
+<rect width="1000" height="520" fill="#f6f8fb"/><rect x="28" y="28" width="944" height="464" rx="28" fill="url(#g)" stroke="#c8d2df"/>
+<text x="62" y="78" class="title">08 · Офсетное полотно</text><text x="62" y="105" class="sub">HEIDELBERG SPEEDMASTER XL 106 · PRINTSTYLE ACADEMY</text>
+<g fill="none" stroke="#315b86" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><circle cx="290" cy="230" r="105"/><circle cx="515" cy="230" r="105"/><circle cx="740" cy="230" r="105"/><path d="M360 170 Q515 100 670 170" class="line"/><path d="M360 290 Q515 360 670 290" class="line"/><rect x="160" y="385" width="700" height="28" rx="14"/></g>
+<g fill="#315b86" font-family="Arial, sans-serif"><text x="62" y="455" font-size="17">Уникальная учебная схема: ключевая логика именно этого урока</text></g>
+<style>.title{font:700 28px Arial,sans-serif;fill:#162536}.sub{font:600 13px Arial,sans-serif;fill:#5d6c7d;letter-spacing:1px}.box{font:700 15px Arial,sans-serif;fill:#162536}.line{stroke:#315b86}</style></svg>

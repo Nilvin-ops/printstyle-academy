@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#f7f9fc"/><rect x="28" y="28" width="1144" height="564" rx="26" fill="#fff" stroke="#dbe4ee" stroke-width="2"/>
+<text x="70" y="86" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#17344e">Печатная форма: где есть краска, а где её нет</text>
+<g font-family="Arial"><rect x="90" y="165" width="1000" height="240" rx="18" fill="#dfe8ef" stroke="#9db0bf"/><path d="M120 220 C220 140 300 310 400 220 S580 140 680 220 S860 310 1060 210" fill="none" stroke="#17344e" stroke-width="42"/>
+<path d="M120 220 C220 140 300 310 400 220 S580 140 680 220 S860 310 1060 210" fill="none" stroke="#4f86a8" stroke-width="18"/>
+<rect x="150" y="455" width="260" height="70" rx="15" fill="#eef8f1" stroke="#a7d1b5"/><text x="280" y="497" text-anchor="middle" font-size="21" font-weight="700" fill="#214b36">ПЕЧАТАЮЩИЙ</text><text x="280" y="521" text-anchor="middle" font-size="15" fill="#526b82">принимает краску</text>
+<rect x="470" y="455" width="260" height="70" rx="15" fill="#eaf4fb" stroke="#a9c8df"/><text x="600" y="497" text-anchor="middle" font-size="21" font-weight="700" fill="#244c6b">ПРОБЕЛЬНЫЙ</text><text x="600" y="521" text-anchor="middle" font-size="15" fill="#526b82">удерживает увлажнение</text>
+<rect x="790" y="455" width="260" height="70" rx="15" fill="#fff4e2" stroke="#e3c48b"/><text x="920" y="497" text-anchor="middle" font-size="21" font-weight="700" fill="#62491e">РЕЗУЛЬТАТ</text><text x="920" y="521" text-anchor="middle" font-size="15" fill="#526b82">избирательный перенос</text></g></svg>

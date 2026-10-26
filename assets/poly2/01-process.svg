@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#f7f9fc"/><rect x="28" y="28" width="1144" height="564" rx="26" fill="#fff" stroke="#dbe4ee" stroke-width="2"/>
+<text x="70" y="86" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#17344e">От файла к готовому оттиску</text>
+<g font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle"><rect x="70" y="170" width="180" height="110" rx="18" fill="#eaf2ff" stroke="#9ebce0"/><text x="160" y="220">Файл</text><text x="160" y="250" font-size="16" font-weight="400">данные заказа</text>
+<rect x="300" y="170" width="180" height="110" rx="18" fill="#eef8f1" stroke="#a8d3b6"/><text x="390" y="220">Форма</text><text x="390" y="250" font-size="16" font-weight="400">C / M / Y / K</text>
+<rect x="530" y="170" width="180" height="110" rx="18" fill="#fff5df" stroke="#e6c57b"/><text x="620" y="220">Печать</text><text x="620" y="250" font-size="16" font-weight="400">краска + вода + контакт</text>
+<rect x="760" y="170" width="180" height="110" rx="18" fill="#f2ecff" stroke="#c7b2e9"/><text x="850" y="220">Контроль</text><text x="850" y="250" font-size="16" font-weight="400">цвет + приводка + тон</text>
+<rect x="990" y="170" width="140" height="110" rx="18" fill="#eef4f7" stroke="#b5c8d3"/><text x="1060" y="220">Тираж</text><text x="1060" y="250" font-size="16" font-weight="400">стабильный результат</text></g>
+<g stroke="#6d8daa" stroke-width="5" fill="none"><path d="M250 225h45"/><path d="M480 225h45"/><path d="M710 225h45"/><path d="M940 225h45"/></g>
+<g font-family="Arial" font-size="18" fill="#526b82"><text x="75" y="370">Главная идея: каждый следующий этап зависит от предыдущего.</text><text x="75" y="410">Ошибка, возникшая до печати, может проявиться уже на готовом листе.</text></g></svg>

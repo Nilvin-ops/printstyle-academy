@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Охрана труда</title><desc id="desc">Тематическая иллюстрация: Безопасность — Охрана труда</desc>
+<rect width="360" height="320" rx="18" fill="#eef3f7"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#2c6e8f" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#2c6e8f" letter-spacing="1.5">SAFE · 124</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M92 52l38 14v28c0 25-17 39-38 48C71 133,54 119,54 94V61z"/><path d="M73 97l12 12 25-28"/><rect x="230" y="93" width="65" height="48" rx="6"/><path d="M243 93v-13c0-28 40-28 40 0v13"/><path d="M36 165 C94 124,174 149,285 120"/><path d="M36 150 L89 116 L144 136 L174 119"/></g>
+<g fill="#2c6e8f"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/><circle cx="343" cy="49" r="2"/><circle cx="357" cy="49" r="3"/></g>
+<text x="38" y="190" class="title">Охрана труда</text><text x="38" y="286" class="kw">Охрана</text><text x="38" y="304" class="kw">труда</text>
+<rect x="38" y="275" width="280" height="1" fill="#2c6e8f" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

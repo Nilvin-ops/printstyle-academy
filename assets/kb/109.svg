@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Макулатура</title><desc id="desc">Тематическая иллюстрация: Качество и производство — Макулатура</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#2c6e8f" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#2c6e8f" letter-spacing="1.5">QC · 109</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="117" cy="97" r="35"/><circle cx="117" cy="97" r="23"/><circle cx="117" cy="97" r="9"/><path d="M180 142V67M180 142h105"/><path d="M190 127L212 110L230 120L252 87L278 100"/><path d="M36 165 C109 129,199 164,285 120"/><path d="M36 150 L74 121 L129 141 L189 104"/></g>
+<g fill="#2c6e8f"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/><circle cx="343" cy="49" r="2"/></g>
+<text x="38" y="190" class="title">Макулатура</text><text x="38" y="286" class="kw">Макулатура</text>
+<rect x="38" y="275" width="280" height="1" fill="#2c6e8f" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

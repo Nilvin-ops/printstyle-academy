@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Изоляция энергии</title><desc id="desc">Тематическая иллюстрация: Безопасность — Изоляция энергии</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#b24a2a" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#b24a2a" letter-spacing="1.5">SAFE · 123</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M117 47l38 14v28c0 25-17 39-38 48C96 128,79 114,79 89V86z"/><path d="M98 92l12 12 25-28"/><rect x="200" y="105" width="65" height="48" rx="6"/><path d="M213 105v-13c0-28 40-28 40 0v13"/><path d="M36 165 C93 123,173 148,285 120"/><path d="M36 150 L88 115 L143 135 L173 118"/></g>
+<g fill="#b24a2a"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/><circle cx="343" cy="49" r="2"/></g>
+<text x="38" y="190" class="title">Изоляция энергии</text><text x="38" y="286" class="kw">Изоляция</text><text x="38" y="304" class="kw">энергии</text>
+<rect x="38" y="275" width="280" height="1" fill="#b24a2a" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

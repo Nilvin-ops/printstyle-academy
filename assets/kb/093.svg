@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Серый баланс</title><desc id="desc">Тематическая иллюстрация: Цвет и контроль — Серый баланс</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#b24a2a" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#b24a2a" letter-spacing="1.5">COLOR · 093</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="67" y="52" width="25" height="70" rx="2"/><rect x="95" y="52" width="25" height="70" rx="2"/><rect x="123" y="52" width="25" height="70" rx="2"/><rect x="151" y="52" width="25" height="70" rx="2"/><circle cx="230" cy="107" r="35"/><circle cx="230" cy="107" r="23"/><circle cx="230" cy="107" r="9"/><path d="M36 165 C93 133,183 148,285 120"/><path d="M36 150 L93 125 L138 145 L173 113"/></g>
+<g fill="#b24a2a"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/></g>
+<text x="38" y="190" class="title">Серый баланс</text><text x="38" y="286" class="kw">Серый</text><text x="38" y="304" class="kw">баланс</text>
+<rect x="38" y="275" width="280" height="1" fill="#b24a2a" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

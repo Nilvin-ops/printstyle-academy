@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Мелованная бумага</title><desc id="desc">Тематическая иллюстрация: Материалы — Мелованная бумага</desc>
+<rect width="360" height="320" rx="18" fill="#eef3f7"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#b24a2a" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#b24a2a" letter-spacing="1.5">MATERIAL · 036</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="42" y="62" width="120" height="65" rx="4"/><path d="M62 79h80M62 95h55M62 111h90"/><ellipse cx="255" cy="103" rx="28" ry="36"/><ellipse cx="255" cy="103" rx="10" ry="14"/><path d="M255 67h55v72H255"/><path d="M36 165 C96 136,206 151,285 120"/><path d="M36 150 L71 128 L131 148 L176 106"/></g>
+<g fill="#b24a2a"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/></g>
+<text x="38" y="190" class="title">Мелованная бумага</text><text x="38" y="286" class="kw">Мелованная</text><text x="38" y="304" class="kw">бумага</text>
+<rect x="38" y="275" width="280" height="1" fill="#b24a2a" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

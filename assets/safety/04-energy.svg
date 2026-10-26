@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 520" role="img" aria-labelledby="title desc">
+<title id="title">Остановка и энергия</title><desc id="desc">Схема по теме Остановка и энергия.</desc>
+<style>
+.bg{fill:#f7f9fc} .panel{fill:#ffffff;stroke:#d8e0ea;stroke-width:2} .card{fill:#ffffff;stroke:#cfd9e5;stroke-width:2} .num{fill:#16283d} .numtext{font:700 14px Arial,sans-serif;fill:#fff} .title{font:700 31px Arial,sans-serif;fill:#15263a} .sub{font:400 16px Arial,sans-serif;fill:#5a6b7d} .label{font:600 18px Arial,sans-serif;fill:#1d2d40}
+</style>
+<rect width="1160" height="520" class="bg"/>
+<rect x="25" y="25" width="1110" height="470" rx="28" class="panel"/>
+<text x="580" y="80" text-anchor="middle" class="title">Остановка и энергия</text>
+<text x="580" y="112" text-anchor="middle" class="sub">Ключевые ориентиры для безопасной работы</text>
+<g>
+<rect x="60" y="180" width="230" height="245" rx="22" class="card"/>
+<circle cx="100" cy="222" r="22" class="num"/>
+<text x="100" y="229" text-anchor="middle" class="numtext">01</text>
+<text x="175" y="292" text-anchor="middle" class="label"><tspan x="175" dy="0">Механическая энергия</tspan></text>
+</g><g>
+<rect x="330" y="180" width="230" height="245" rx="22" class="card"/>
+<circle cx="370" cy="222" r="22" class="num"/>
+<text x="370" y="229" text-anchor="middle" class="numtext">02</text>
+<text x="445" y="292" text-anchor="middle" class="label"><tspan x="445" dy="0">Электрическая энергия</tspan></text>
+</g><g>
+<rect x="600" y="180" width="230" height="245" rx="22" class="card"/>
+<circle cx="640" cy="222" r="22" class="num"/>
+<text x="640" y="229" text-anchor="middle" class="numtext">03</text>
+<text x="715" y="292" text-anchor="middle" class="label"><tspan x="715" dy="0">Пневматическая энергия</tspan></text>
+</g><g>
+<rect x="870" y="180" width="230" height="245" rx="22" class="card"/>
+<circle cx="910" cy="222" r="22" class="num"/>
+<text x="910" y="229" text-anchor="middle" class="numtext">04</text>
+<text x="985" y="292" text-anchor="middle" class="label"><tspan x="985" dy="0">Остаточное тепло и</tspan><tspan x="985" dy="27">давление</tspan></text>
+</g>
+</svg>

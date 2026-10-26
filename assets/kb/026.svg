@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Пробельный элемент</title><desc id="desc">Тематическая иллюстрация: Формные процессы — Пробельный элемент</desc>
+<rect width="360" height="320" rx="18" fill="#eef3f7"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">PLATE · 026</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="42" y="52" width="120" height="80" rx="10"/><circle cx="77" cy="92" r="18"/><path d="M107 74h35M107 92h28M107 110h35"/><circle cx="255" cy="108" r="20"/><path d="M255 71v-15M255 145v15M218 108h-15M292 108h15M229 82L218 71M281 134l11 11"/><path d="M36 165 C116 126,196 171,285 120"/><path d="M36 150 L96 118 L121 138 L196 96"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/><circle cx="343" cy="49" r="2"/><circle cx="357" cy="49" r="3"/></g>
+<text x="38" y="190" class="title">Пробельный элемент</text><text x="38" y="286" class="kw">Пробельный</text><text x="38" y="304" class="kw">элемент</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Флексографская печать</title><desc id="desc">Тематическая иллюстрация: Печатные процессы — Флексографская печать</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">PRESS · 065</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="102" cy="89" rx="18" ry="28"/><ellipse cx="142" cy="89" rx="18" ry="28"/><path d="M102 61h40M102 117h40"/><rect x="180" y="77" width="120" height="65" rx="4"/><path d="M200 94h80M200 110h55M200 126h90"/><path d="M36 165 C95 125,195 150,285 120"/><path d="M36 150 L100 117 L135 137 L175 110"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/></g>
+<text x="38" y="190" class="title">Флексографская печать</text><text x="38" y="286" class="kw">Флексографская</text><text x="38" y="304" class="kw">печать</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

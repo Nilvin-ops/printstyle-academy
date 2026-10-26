@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Тиснение фольгой</title><desc id="desc">Тематическая иллюстрация: Послепечатная обработка — Тиснение фольгой</desc>
+<rect width="360" height="320" rx="18" fill="#eef3f7"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">FINISH · 104</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M42 107 L122 52 L142 72 L62 122z"/><path d="M72 107l25 20"/><path d="M210 73h110v65H210z"/><path d="M265 73v65M237 73v65M293 73v65"/><path d="M36 165 C104 124,194 159,285 120"/><path d="M36 150 L104 116 L124 136 L184 99"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/><circle cx="343" cy="49" r="2"/><circle cx="357" cy="49" r="3"/><circle cx="315" cy="63" r="4"/></g>
+<text x="38" y="190" class="title">Тиснение фольгой</text><text x="38" y="286" class="kw">Тиснение</text><text x="38" y="304" class="kw">фольгой</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

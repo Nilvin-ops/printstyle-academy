@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Связующее краски</title><desc id="desc">Тематическая иллюстрация: Краски и покрытия — Связующее краски</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">INK · 053</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M112 57 C72 102,85 130,112 130 C139 130,152 102,112 57z"/><circle cx="102" cy="104" r="5" fill="currentColor"/><circle cx="215" cy="107" r="22"/><circle cx="215" cy="107" r="7"/><circle cx="265" cy="107" r="18"/><path d="M237 89h20v36H237z"/><path d="M36 165 C113 133,183 168,285 120"/><path d="M36 150 L88 125 L123 145 L193 98"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/><circle cx="329" cy="49" r="4"/><circle cx="343" cy="49" r="2"/></g>
+<text x="38" y="190" class="title">Связующее краски</text><text x="38" y="286" class="kw">Связующее</text><text x="38" y="304" class="kw">краски</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

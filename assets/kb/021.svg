@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Выворотка</title><desc id="desc">Тематическая иллюстрация: Допечатная подготовка — Выворотка</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#b24a2a" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#b24a2a" letter-spacing="1.5">PREPRESS · 021</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M67 62 h55 l20 20 v85 h-75z"/><path d="M122 62 v20 h20"/><circle cx="94" cy="109" r="8"/><rect x="180" y="62" width="110" height="80" rx="4"/><path d="M168 62h20M180 50v20M270 50v20M270 62h20M168 142h20M180 130v20M270 130v20M270 142h20"/><path d="M36 165 C111 121,191 166,285 120"/><path d="M36 150 L91 113 L141 133 L191 116"/></g>
+<g fill="#b24a2a"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/></g>
+<text x="38" y="190" class="title">Выворотка</text><text x="38" y="286" class="kw">Выворотка</text>
+<rect x="38" y="275" width="280" height="1" fill="#b24a2a" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

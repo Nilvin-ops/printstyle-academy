@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0"/><stop offset="1" stop-color="#dbe7f5"/></linearGradient></defs>
+<rect width="1000" height="520" fill="#f6f8fb"/><rect x="28" y="28" width="944" height="464" rx="28" fill="url(#g)" stroke="#c8d2df"/>
+<text x="62" y="78" class="title">17 · Inspection Control 4</text><text x="62" y="105" class="sub">HEIDELBERG SPEEDMASTER XL 106 · PRINTSTYLE ACADEMY</text>
+<g fill="none" stroke="#315b86" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="80" y="90" width="820" height="280" rx="28"/><rect x="120" y="130" width="420" height="185" rx="18"/><rect x="575" y="130" width="275" height="80" rx="14"/><rect x="575" y="235" width="275" height="80" rx="14"/><circle cx="165" cy="160" r="10"/><circle cx="195" cy="160" r="10"/><circle cx="225" cy="160" r="10"/><path d="M155 275 H490 M620 170 H805 M620 275 H805" class="line"/></g>
+<g fill="#315b86" font-family="Arial, sans-serif"><text x="62" y="455" font-size="17">Уникальная учебная схема: ключевая логика именно этого урока</text></g>
+<style>.title{font:700 28px Arial,sans-serif;fill:#162536}.sub{font:600 13px Arial,sans-serif;fill:#5d6c7d;letter-spacing:1px}.box{font:700 15px Arial,sans-serif;fill:#162536}.line{stroke:#315b86}</style></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Гладкость поверхности</title><desc id="desc">Тематическая иллюстрация: Материалы — Гладкость поверхности</desc>
+<rect width="360" height="320" rx="18" fill="#eef3f7"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#b24a2a" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#b24a2a" letter-spacing="1.5">MATERIAL · 042</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="42" y="67" width="120" height="65" rx="4"/><path d="M62 84h80M62 100h55M62 116h90"/><ellipse cx="255" cy="111" rx="28" ry="36"/><ellipse cx="255" cy="111" rx="10" ry="14"/><path d="M255 75h55v72H255"/><path d="M36 165 C102 122,172 157,285 120"/><path d="M36 150 L77 114 L137 134 L182 112"/></g>
+<g fill="#b24a2a"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/></g>
+<text x="38" y="190" class="title">Гладкость поверхности</text><text x="38" y="286" class="kw">Гладкость</text><text x="38" y="304" class="kw">поверхности</text>
+<rect x="38" y="275" width="280" height="1" fill="#b24a2a" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>

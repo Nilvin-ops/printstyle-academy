@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-labelledby="title desc">
+<title id="title">Контрольный PDF</title><desc id="desc">Тематическая иллюстрация: Допечатная подготовка — Контрольный PDF</desc>
+<rect width="360" height="320" rx="18" fill="#f7f4ee"/>
+<rect x="18" y="18" width="324" height="284" rx="14" fill="none" stroke="#7a5c2e" stroke-width="2"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#7a5c2e" letter-spacing="1.5">PREPRESS · 023</text>
+<g fill="none" stroke="#17212b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M67 57 h55 l20 20 v85 h-75z"/><path d="M122 57 v20 h20"/><circle cx="94" cy="104" r="8"/><rect x="180" y="70" width="110" height="80" rx="4"/><path d="M168 70h20M180 58v20M270 58v20M270 70h20M168 150h20M180 138v20M270 138v20M270 150h20"/><path d="M36 165 C113 123,193 168,285 120"/><path d="M36 150 L93 115 L143 135 L193 118"/></g>
+<g fill="#7a5c2e"><circle cx="315" cy="35" r="2"/><circle cx="329" cy="35" r="3"/><circle cx="343" cy="35" r="4"/><circle cx="357" cy="35" r="2"/><circle cx="315" cy="49" r="3"/></g>
+<text x="38" y="190" class="title">Контрольный PDF</text><text x="38" y="286" class="kw">Контрольный</text>
+<rect x="38" y="275" width="280" height="1" fill="#7a5c2e" opacity=".45"/>
+<text x="38" y="298" font-family="Arial,sans-serif" font-size="10" fill="#17212b" opacity=".65">PrintStyle Academy · база знаний</text>
+</svg>
